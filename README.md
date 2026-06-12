@@ -1,10 +1,10 @@
 # A210288_Syaima_DrNazatulAini_Project2
 
-## 🌙 LunaLog Pro
-LunaLog Pro is a minimalist, privacy-first menstrual health and ovulation tracking application designed to empower users through comprehensive body literacy. 
+## 🌙 LunaLog
+LunaLog is a minimalist, privacy-first menstrual health and ovulation tracking application designed to empower users through comprehensive body literacy. 
 
 ### 🌸 SDG 3 Theme Connection: Good Health & Well-being
-Traditional cycle tracking applications function merely as passive date loggers, frequently ignoring the holistic connection between physiological phases, mental stress, and overall emotional stability. LunaLog Pro directly addresses **SDG Target 3.7** (ensuring universal access to sexual and reproductive healthcare services) by integrating real-time physical symptom tracking alongside emotional data, offering a localized, safe, and destigmatized platform for women to understand their reproductive and psychological wellness.
+Traditional cycle tracking applications function merely as passive date loggers, frequently ignoring the holistic connection between physiological phases, mental stress, and overall emotional stability. LunaLog directly addresses **SDG 3** (ensuring universal access to sexual and reproductive healthcare services) by integrating real-time physical symptom tracking alongside emotional data, offering a localized, safe, and destigmatized platform for women to understand their reproductive and psychological wellness.
 
 ---
 
